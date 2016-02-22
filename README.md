@@ -1,4 +1,6 @@
-SocketCluster Sample App
+SocketCluster Terminal Chat
 ======
 
-This is a sample SocketCluster app.
+npm install
+node server.js
+node client.js (in a different terminal window)
